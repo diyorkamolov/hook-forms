@@ -1,0 +1,58 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "3880",
+      "title": "dfsadfsdf",
+      "imageUrl": "https://images.unsplash.com/photo-1721069209960-9141da8d918a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "description": "fdsafsd",
+      "time": "324324"
+    },
+    {
+      "id": "23a5",
+      "title": "diyor",
+      "imageUrl": "https://images.unsplash.com/photo-1721069209960-9141da8d918a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "description": "dsdsa",
+      "time": "20:90"
+    },
+    {
+      "id": "972e",
+      "title": "DIYOR",
+      "imageUrl": "https://images.unsplash.com/photo-1721069209960-9141da8d918a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "description": "DASDAS",
+      "time": "20:432"
+    },
+    {
+      "id": "9c88",
+      "title": "titile",
+      "imageUrl": "https://images.unsplash.com/photo-1721069209960-9141da8d918a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "description": "dsadasd",
+      "time": "2024-07-18T06:55:33.003Z"
+    },
+    {
+      "id": "dd19",
+      "title": "saddsad",
+      "imageUrl": "https://images.unsplash.com/photo-1721069209960-9141da8d918a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "description": "dasdasd",
+      "time": "2024-07-18T06:57:48.145Z"
+    },
+    {
+      "id": "e4c0",
+      "title": "TOTOT",
+      "imageUrl": "https://images.unsplash.com/photo-1721069209960-9141da8d918a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "description": "SFSAFDSA",
+      "time": "2024-07-18 10:00"
+    },
+    {
+      "id": "fed7",
+      "title": "dasd",
+      "imageUrl": "https://images.unsplash.com/photo-1721069209960-9141da8d918a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxfHx8ZW58MHx8fHx8",
+      "description": "tretre",
+      "time": "2024-07-18 10:04"
+    }
+  ]
+}
